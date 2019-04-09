@@ -1,3 +1,3 @@
-# Todo-with-TypeScript
+# To Do TypeScript
 
-* TypeScirpt Basic & React Basic Use Case 
+* TypeScirpt Basic
